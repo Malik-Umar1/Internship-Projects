@@ -1,0 +1,61 @@
+body {
+    background-color:peachpuff;
+}
+ .paraone {
+    color: black;
+    text-align:center;
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    
+}
+.paratwo {
+    color: black;
+    text-align:center;
+    width: 450px;
+    height: 600px;
+    margin: auto;
+}
+#contact {
+    color: white;
+    font-size: larger;
+    text-align: center;
+    width: 860px;
+    padding: 0px;
+    border: 0px  solid black;
+    margin: auto;
+    background-color:black;
+   
+}
+
+h4 {
+    font-size: larger;
+}
+ul{
+    font-size: medium;
+}
+.parathree {
+    color: black;
+    text-align:center;
+    width: 450px;
+    height: 580px;
+    margin: auto;
+}
+
+.image1 {
+    height: 100px;
+   
+}
+
+.image2 {
+    height: 350px;
+}
+
+.image3 {
+    height: 350px;
+}
+
+.image4 {
+    height: 380px;
+}
+
